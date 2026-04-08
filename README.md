@@ -5,19 +5,19 @@ Tenho experiência em análise e processamento de dados científicos do **Observ
 Tenho experiência com **Python**, **SQL** e ferramentas do ecossistema de dados, utilizando bibliotecas como **Pandas** e **NumPy** para manipulação, análise e modelagem de dados, além de **Matplotlib** e **Seaborn** para visualização. Também venho desenvolvendo projetos voltados a **engenharia de dados**, incluindo ingestão de dados via API, processamento incremental, modelagem analítica em SQL,NoSQL, automação de pipelines com **Apache Airflow** e construção de aplicações e APIs com **FastAPI**.
 
 Busco oportunidades como **Engenheira de Dados** ou **Engenheira de IA**, onde eu possa aplicar minha base quantitativa, minha experiência em análise de dados complexos e meu desenvolvimento prático em engenharia de dados para construir pipelines confiáveis, estruturar dados para análise e apoiar decisões orientadas por dados em ambientes de negócio e tecnologia.
+Veja meu portfolio aqui : 
 
 
-<!--
 <div align="center">
 
-<a href="SEU_LINK_DO_PORTFOLIO_AQUI">
+<a href="https://amandaperin.github.io/portfolio/">
 
 <img src="https://img.shields.io/badge/Portfolio-CLICK%20TO%20VIEW%20PORTFOLIO-0A66C2?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
-</div>
--->
+
+
 ### Contact
 <p>
 <a href="https://www.linkedin.com/in/amanda-perin/" target="_blank">
