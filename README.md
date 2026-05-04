@@ -4,7 +4,7 @@ Tenho experiência em análise e processamento de dados científicos do **Observ
 
 Tenho experiência com **Python**, **SQL** e ferramentas do ecossistema de dados, utilizando bibliotecas como **Pandas** e **NumPy** para manipulação, análise e modelagem de dados, além de **Matplotlib** e **Seaborn** para visualização. Também venho desenvolvendo projetos voltados à **engenharia de dados**, incluindo ingestão de dados via API, processamento incremental, modelagem analítica em SQL e NoSQL, automação de pipelines com **Apache Airflow** e construção de aplicações e APIs com **FastAPI** e **Flask**.
 
-Busco oportunidades como **Engenheira de Dados** ou **Engenheira de IA**, onde eu possa aplicar minha base quantitativa, minha experiência em análise de dados complexos e meu desenvolvimento prático em engenharia de dados para construir pipelines confiáveis, estruturar dados para análise e apoiar decisões orientadas por dados em ambientes de negócio e tecnologia.
+Busco oportunidades como **Engenheira de IA**, onde eu possa aplicar minha base quantitativa, minha experiência em análise de dados complexos e meu desenvolvimento prático em engenharia de dados para construir pipelines confiáveis, estruturar dados para análise e apoiar decisões orientadas por dados em ambientes de negócio e tecnologia.
 
 ---
 
@@ -14,7 +14,7 @@ I have experience in the analysis and processing of scientific data from the **P
 
 I have experience with **Python**, **SQL** and tools from the data ecosystem, using libraries such as **Pandas** and **NumPy** for data manipulation, analysis and modeling, as well as **Matplotlib** and **Seaborn** for visualization. I have also been developing projects focused on **data engineering**, including API-based data ingestion, incremental processing, analytical modeling with SQL and NoSQL, pipeline automation with **Apache Airflow**, and the development of applications and APIs with **FastAPI** and **Flask**.
 
-I am looking for opportunities as a **Data Engineer** or **AI Engineer**, where I can apply my quantitative background, experience with complex data analysis and practical development in data engineering to build reliable pipelines, structure data for analysis and support data-driven decisions in business and technology environments.
+I am looking for opportunities as an **AI Engineer**, where I can apply my quantitative background, experience with complex data analysis and practical development in data engineering to build reliable pipelines, structure data for analysis and support data-driven decisions in business and technology environments.
 
 ---
 
